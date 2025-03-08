@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewBold-Obl.woff2') format('woff2'),
+        url('FuturaNewBold-Obl.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Futura New';
+    src: url('FuturaNewBold-Reg.woff2') format('woff2'),
+        url('FuturaNewBold-Reg.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
